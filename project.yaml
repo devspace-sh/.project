@@ -26,7 +26,7 @@ repositories:
 
 website: "https://devspace.sh"
 
-artwork: "https://landscape.cncf.io/logos/devspace.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/devspace"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
